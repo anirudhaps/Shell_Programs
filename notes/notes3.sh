@@ -1,8 +1,8 @@
-# A script starts with a sha-bang. i.e.
+# A script starts with a sha-bang and path to the commands interpreter. i.e.
 #!/bin/bash
 # like that. The above line is called sha-bang.
 # It tells the correct command interpreter to be invoked to execute
-# the script.
+# the script. /bin/bash is the path of the command interpreter.
 
 # Once the script is written, we can invoke the script from commandline
 # by either of the following ways:
